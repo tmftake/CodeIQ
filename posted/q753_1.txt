@@ -1,0 +1,1 @@
+-(c-a).toFixed().substr(-1)&&1
